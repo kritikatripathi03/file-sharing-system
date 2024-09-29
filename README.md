@@ -16,6 +16,9 @@ This project is a secure file-sharing system built using FastAPI. It provides fu
 
 ## Technologies
 **FastAPI**: A modern, fast web framework for building APIs.
+
 **Python**: Core language for the API backend.
+
 **Encryption Libraries**: Used for secure file handling and URL encryption.
+
 **Postman**: For testing purposes
